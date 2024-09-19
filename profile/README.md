@@ -1,4 +1,4 @@
-<h3 align="center"> Hi there I'm Dineshkummarc 👋 </h3>
+<h3 align="center"> Hi there I'm RockIT Hyperlocal Software Services 👋 </h3>
 
 <h5>I'm a Software Engineer living and working in the North East of Capital City of India. I currently work as a Senior Software Engineer (Basically a Freelance Test Architect) and run my own freelance Studio <a href='http://rockit.rf.gd/?i=1'>RHS Services</a>. I manages the most number of Repositories with name like Phpmy<> repositories.</h5>
 
